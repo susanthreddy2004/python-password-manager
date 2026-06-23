@@ -1,0 +1,6 @@
+{
+  "name": "Python Password Manager",
+  "description": "A professional Python Tkinter password manager featuring Fernet encryption, SQLite DB, a master password setup, and an integrated web simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
